@@ -1,13 +1,9 @@
 const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const categories = require("./data/categories");
 
 module.exports = {
   items,
-  tags,
-  brands,
-  itemTypes
+  categories,
 }
 
 
@@ -19,7 +15,7 @@ module.exports = {
 //   tags = [].concat.apply([], tags);
 //   tags = [...new Set(tags)];
 
- 
+
 
 //   var brands = items.map((i) => i.manufacturer);
 //   brands = [...new Set(brands)];

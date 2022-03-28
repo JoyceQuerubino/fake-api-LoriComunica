@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "key": "geral",
+      "title": "Geral",
+      "photo": "https://i.ibb.co/ygLyQ32/chat.png"
+    },
+    {
+      "id": 2,
+      "key": "dores",
+      "title": "Dores",
+      "photo": "https://i.ibb.co/XSVWgrn/dor.png"
+    },
+    {
+      "id": 3,
+      "key": "necessidades",
+      "title": "Necessidades",
+      "photo": "https://i.ibb.co/37Vx69j/public-toilet.png"
+    },
+    {
+      "id": 4,
+      "key": "objetos",
+      "title": "Objetos",
+      "photo": "https://i.ibb.co/TrdzBjk/sunglasses.png"
+    },
+    {
+      "id": 5,
+      "key": "comidas",
+      "title": "Comidas",
+      "photo": "https://i.ibb.co/ykw4FTg/diet.png"
+    },
+    {
+      "id": 6,
+      "key": "pessoas",
+      "title": "Pessoas",
+      "photo": "https://i.ibb.co/ZNPwjmZ/ancestors.png"
+    },
+    {
+      "id": 7,
+      "key": "perguntas",
+      "title": "Perguntas",
+      "photo": "https://i.ibb.co/B6tLJDj/questions.png"
+    },
+    {
+      "id": 8,
+      "key": "alfabeto",
+      "title": "Alfabeto",
+      "photo": "https://i.ibb.co/T4HK1hW/abc.png"
+    },
+    {
+      "id": 9,
+      "key": "numeros",
+      "title": "Numeros",
+      "photo": "https://i.ibb.co/N3HYfVm/numbers.png"
+    }
+  ]
+}
