@@ -1,9 +1,11 @@
-const items = require("./data/items");
+const itens = require("./data/itens");
 const categories = require("./data/categories");
+const tudo = require("./data/tudo");
 
 module.exports = {
-  items,
+  itens,
   categories,
+  tudo,
 }
 
 
