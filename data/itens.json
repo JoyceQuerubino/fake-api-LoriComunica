@@ -317,6 +317,24 @@
       "name": "9",
       "photo": "https://i.ibb.co/8c51Rcq/eight.png",
       "categoryId": 11
+    },
+    {
+      "id": 57,
+      "name": "Feliz",
+      "photo": "https://i.ibb.co/N2Jf4rd/happy.png",
+      "categoryId": 2
+    },
+    {
+      "id": 58,
+      "name": "Triste",
+      "photo": "https://i.ibb.co/T2gzSqK/sad.png",
+      "categoryId": 2
+    },
+    {
+      "id": 59,
+      "name": "Bravo",
+      "photo": "https://i.ibb.co/6Hww3J5/angry.png",
+      "categoryId": 2
     }
   ]
 }
