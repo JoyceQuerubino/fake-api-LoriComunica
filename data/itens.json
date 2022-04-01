@@ -317,49 +317,6 @@
       "name": "9",
       "photo": "https://i.ibb.co/8c51Rcq/eight.png",
       "categoryId": 11
-    },
-    {
-      "id": 53,
-      "name": "Comer",
-      "photo": "https://i.ibb.co/S7srjx2/Captura-de-Tela-2022-03-30-a-s-11-48-24.png",
-      "categoryId": 3
-    },
-    {
-      "id": 54,
-      "name": "Banheiro",
-      "photo": "https://i.ibb.co/644DVgG/Captura-de-Tela-2022-03-30-a-s-11-48-35.png",
-      "categoryId": 3
-    },
-    {
-      "id": 55,
-      "name": "Banho",
-      "photo": "https://i.ibb.co/2gMvFmZ/Captura-de-Tela-2022-03-30-a-s-11-48-57.png",
-      "categoryId": 3
-    },
-    {
-      "id": 56,
-      "name": "Assistir",
-      "photo": "https://i.ibb.co/c2766xY/Galinha-Pintadinha.png",
-      "categoryId": 3
-    },
-    {
-      "id": 57,
-      "name": "Feliz",
-      "photo": "https://i.ibb.co/N2Jf4rd/happy.png",
-      "categoryId": 2
-    },
-    {
-      "id": 58,
-      "name": "Triste",
-      "photo": "https://i.ibb.co/T2gzSqK/sad.png",
-      "categoryId": 2
-    },
-    {
-      "id": 59,
-      "name": "Bravo",
-      "photo": "https://i.ibb.co/6Hww3J5/angry.png",
-      "categoryId": 2
     }
-
   ]
 }
